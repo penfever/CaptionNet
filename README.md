@@ -47,6 +47,8 @@ YFCC-100, ImageNet-100 and OpenImages-100 contain captions sourced from Flickr. 
 
 Additional labeling sources are available for some of the datasets in CaptionNet; please reference our paper for a reference key for all of the columns in the spreadsheets.
 
+[VL Hub](https://github.com/penfever/vlhub/), a framework for vision language model training, can be used to reproduce the experiments in our paper.
+
 # Evaluation on CaptionNet[](#evaluation-on-captionnet)
 
 Evaluation methods for CaptionNet models are the same as those for ImageNet models, except that we evaluate only on a subset of all ImageNet classes.
